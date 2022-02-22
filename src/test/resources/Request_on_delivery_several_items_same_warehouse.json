@@ -1,0 +1,76 @@
+{
+  "orderNumber": "2100005694",
+  "barCodeNumber": "2770200002135694",
+  "deliveryServicePhoneNumber": "8-812-670-03-62",
+  "deliveryServiceHotLinePhoneNumber": "8-800-600-77-75",
+  "serviceRequestNumber": "545694",
+  "serviceRequestCreationDate": "2022-02-10T12:35:18",
+  "creationObject": "S5694",
+  "recipient": {
+    "fullName": "Ryzhenkov Nikita",
+    "primaryPhone": "9626024367",
+    "secondaryPhone": null
+  },
+  "deliveryAddress": {
+    "cityAndStreet": "г Санкт-Петербург, поселок Песочный 3-й кв-л",
+    "house": "д3",
+    "entrance": null,
+    "floor": null,
+    "apartment": "3",
+    "postcode": "197758",
+    "room": null,
+    "intercomCode": null,
+    "hasLift": false,
+    "subwayStation": null
+  },
+  "deliveryDate": "2022-02-10",
+  "deliveryInterval": "10:00-22:00",
+  "fullQuantity": 2,
+  "itemsFullPrice": 13990,
+  "itemsFullPriceText": "тринадцать тысяч девятьсот девяносто рублей, 0 копеек",
+  "employeeName": "ldluvqe Александр Игоревич",
+  "company": {
+    "shortName": "ООО \"МВМ\"",
+    "inn": "7707548740",
+    "kpp": "997350001",
+    "address": "105066, г. Москва, ул. Нижняя Красносельская, д.40/12, стр.20",
+    "phone": "8-800-600-77-75",
+    "carrierName": "ООО \"Смайл Лоджистик\""
+  },
+  "salesReceiptId": "2135694",
+  "requestPositionList": [
+    {
+      "requestPositionId": "15694",
+      "servicePositionId": "1",
+      "material": "10004026",
+      "materialName": "MC Denon DM39 Bl (!!)",
+      "reserveObject": "S111",
+      "quantity": "1",
+      "price": 6995,
+      "items": [
+        {
+          "servicePositionId": "1.1",
+          "material": "10004025",
+          "materialName": "AS Denon SC-M39BKEM",
+          "quantity": "1"
+        },
+        {
+          "servicePositionId": "1.2",
+          "material": "10004024",
+          "materialName": "Ресивер Denon RCD-M39BKE2",
+          "quantity": "1"
+        }
+      ]
+    },
+    {
+      "requestPositionId": "25694",
+      "servicePositionId": "2",
+      "material": "20004026",
+      "materialName": "MC Denon 2",
+      "reserveObject": "S111",
+      "quantity": "1",
+      "price": 6995,
+      "items": []
+    }
+  ]
+}
